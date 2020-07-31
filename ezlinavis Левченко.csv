@@ -1,0 +1,407 @@
+Source,Type,Target,Weight
+Балин ,Undirected,Бард,3
+Балин ,Undirected,Беорн,6
+Балин ,Undirected,Бильбо Бэггинс,14
+Балин ,Undirected,Бифур ,9
+Балин ,Undirected,Бомбур,11
+Балин ,Undirected,Бомбур ,1
+Балин ,Undirected,Бофур,9
+Балин ,Undirected,Бургомистр Эсгарота,3
+Балин ,Undirected,Варги ,4
+Балин ,Undirected,Глоин,2
+Балин ,Undirected,Глоин ,6
+Балин ,Undirected,Голлум,2
+Балин ,Undirected,Гэндальф,10
+Балин ,Undirected,Даин ,3
+Балин ,Undirected,Двалин,6
+Балин ,Undirected,Дори,8
+Балин ,Undirected,Кили,11
+Балин ,Undirected,Король Эльфов ,4
+Балин ,Undirected,Нори ,6
+Балин ,Undirected,Оин,1
+Балин ,Undirected,Оин ,6
+Балин ,Undirected,Оин  ,1
+Балин ,Undirected,Ори,7
+Балин ,Undirected,Орки,4
+Балин ,Undirected,Орлы ,4
+Балин ,Undirected,Смауг,7
+Балин ,Undirected,Торин Дубощит,14
+Балин ,Undirected,Тролли,1
+Балин ,Undirected,Фили,11
+Балин ,Undirected,Элронд	,5
+Балин,Undirected,Бард,1
+Балин,Undirected,Беорн,1
+Балин,Undirected,Бильбо Бэггинс,1
+Балин,Undirected,Бургомистр Эсгарота,1
+Балин,Undirected,Гэндальф,1
+Балин,Undirected,Двалин ,1
+Бард,Undirected,Беорн,4
+Бард,Undirected,Бильбо Бэггинс,5
+Бард,Undirected,Бифур ,1
+Бард,Undirected,Бомбур,3
+Бард,Undirected,Бомбур ,1
+Бард,Undirected,Бофур,1
+Бард,Undirected,Бургомистр Эсгарота,4
+Бард,Undirected,Варги ,2
+Бард,Undirected,Глоин ,1
+Бард,Undirected,Гэндальф,4
+Бард,Undirected,Даин ,4
+Бард,Undirected,Двалин,1
+Бард,Undirected,Двалин ,1
+Бард,Undirected,Дори,1
+Бард,Undirected,Кили,4
+Бард,Undirected,Король Эльфов ,4
+Бард,Undirected,Оин,1
+Бард,Undirected,Ори,1
+Бард,Undirected,Орки,2
+Бард,Undirected,Орлы ,2
+Бард,Undirected,Смауг,3
+Бард,Undirected,Торин Дубощит,5
+Бард,Undirected,Фили,4
+Беорн,Undirected,Бильбо Бэггинс,7
+Беорн,Undirected,Бифур ,4
+Беорн,Undirected,Бомбур,5
+Беорн,Undirected,Бомбур ,1
+Беорн,Undirected,Бофур,4
+Беорн,Undirected,Бургомистр Эсгарота,5
+Беорн,Undirected,Варги ,2
+Беорн,Undirected,Глоин,2
+Беорн,Undirected,Глоин ,3
+Беорн,Undirected,Голлум,1
+Беорн,Undirected,Гэндальф,5
+Беорн,Undirected,Даин ,2
+Беорн,Undirected,Двалин,3
+Беорн,Undirected,Двалин ,1
+Беорн,Undirected,Дори,5
+Беорн,Undirected,Кили,5
+Беорн,Undirected,Король Эльфов ,4
+Беорн,Undirected,Нори ,3
+Беорн,Undirected,Оин,1
+Беорн,Undirected,Оин ,3
+Беорн,Undirected,Оин  ,1
+Беорн,Undirected,Ори,4
+Беорн,Undirected,Орки,2
+Беорн,Undirected,Орлы ,2
+Беорн,Undirected,Смауг,4
+Беорн,Undirected,Торин Дубощит,7
+Беорн,Undirected,Фили,5
+Беорн,Undirected,Элронд	,1
+Бильбо Бэггинс,Undirected,Бифур ,9
+Бильбо Бэггинс,Undirected,Бомбур,13
+Бильбо Бэггинс,Undirected,Бомбур ,1
+Бильбо Бэггинс,Undirected,Бофур,9
+Бильбо Бэггинс,Undirected,Бургомистр Эсгарота,4
+Бильбо Бэггинс,Undirected,Варги ,4
+Бильбо Бэггинс,Undirected,Глоин,2
+Бильбо Бэггинс,Undirected,Глоин ,7
+Бильбо Бэггинс,Undirected,Голлум,3
+Бильбо Бэггинс,Undirected,Гэндальф,13
+Бильбо Бэггинс,Undirected,Даин ,4
+Бильбо Бэггинс,Undirected,Двалин,6
+Бильбо Бэггинс,Undirected,Двалин ,1
+Бильбо Бэггинс,Undirected,Дори,9
+Бильбо Бэггинс,Undirected,Кили,13
+Бильбо Бэггинс,Undirected,Король Эльфов ,5
+Бильбо Бэггинс,Undirected,Нори ,6
+Бильбо Бэггинс,Undirected,Оин,1
+Бильбо Бэггинс,Undirected,Оин ,7
+Бильбо Бэггинс,Undirected,Оин  ,1
+Бильбо Бэггинс,Undirected,Ори,8
+Бильбо Бэггинс,Undirected,Орки,6
+Бильбо Бэггинс,Undirected,Орлы ,4
+Бильбо Бэггинс,Undirected,Смауг,7
+Бильбо Бэггинс,Undirected,Торин Дубощит,16
+Бильбо Бэггинс,Undirected,Тролли,1
+Бильбо Бэггинс,Undirected,Фили,13
+Бильбо Бэггинс,Undirected,Элронд	,6
+Бифур ,Undirected,Бомбур,8
+Бифур ,Undirected,Бомбур ,1
+Бифур ,Undirected,Бофур,9
+Бифур ,Undirected,Бургомистр Эсгарота,2
+Бифур ,Undirected,Варги ,3
+Бифур ,Undirected,Глоин,1
+Бифур ,Undirected,Глоин ,6
+Бифур ,Undirected,Голлум,2
+Бифур ,Undirected,Гэндальф,7
+Бифур ,Undirected,Даин ,1
+Бифур ,Undirected,Двалин,6
+Бифур ,Undirected,Дори,7
+Бифур ,Undirected,Кили,8
+Бифур ,Undirected,Король Эльфов ,2
+Бифур ,Undirected,Нори ,6
+Бифур ,Undirected,Оин,1
+Бифур ,Undirected,Оин ,6
+Бифур ,Undirected,Ори,7
+Бифур ,Undirected,Орки,3
+Бифур ,Undirected,Орлы ,3
+Бифур ,Undirected,Смауг,3
+Бифур ,Undirected,Торин Дубощит,9
+Бифур ,Undirected,Тролли,1
+Бифур ,Undirected,Фили,8
+Бифур ,Undirected,Элронд	,4
+Бомбур ,Undirected,Бофур,1
+Бомбур ,Undirected,Бургомистр Эсгарота,1
+Бомбур ,Undirected,Варги ,1
+Бомбур ,Undirected,Глоин ,1
+Бомбур ,Undirected,Гэндальф,1
+Бомбур ,Undirected,Даин ,1
+Бомбур ,Undirected,Двалин,1
+Бомбур ,Undirected,Дори,1
+Бомбур ,Undirected,Кили,1
+Бомбур ,Undirected,Оин,1
+Бомбур ,Undirected,Ори,1
+Бомбур ,Undirected,Орки,1
+Бомбур ,Undirected,Орлы ,1
+Бомбур ,Undirected,Торин Дубощит,1
+Бомбур ,Undirected,Фили,1
+Бомбур,Undirected,Бофур,8
+Бомбур,Undirected,Бургомистр Эсгарота,2
+Бомбур,Undirected,Варги ,3
+Бомбур,Undirected,Глоин,2
+Бомбур,Undirected,Глоин ,6
+Бомбур,Undirected,Голлум,2
+Бомбур,Undirected,Гэндальф,9
+Бомбур,Undirected,Даин ,3
+Бомбур,Undirected,Двалин,5
+Бомбур,Undirected,Дори,8
+Бомбур,Undirected,Кили,12
+Бомбур,Undirected,Король Эльфов ,5
+Бомбур,Undirected,Нори ,6
+Бомбур,Undirected,Оин ,7
+Бомбур,Undirected,Оин  ,1
+Бомбур,Undirected,Ори,6
+Бомбур,Undirected,Орки,4
+Бомбур,Undirected,Орлы ,3
+Бомбур,Undirected,Смауг,6
+Бомбур,Undirected,Торин Дубощит,13
+Бомбур,Undirected,Тролли,1
+Бомбур,Undirected,Фили,12
+Бомбур,Undirected,Элронд	,5
+Бофур,Undirected,Бургомистр Эсгарота,2
+Бофур,Undirected,Варги ,3
+Бофур,Undirected,Глоин,1
+Бофур,Undirected,Глоин ,6
+Бофур,Undirected,Голлум,2
+Бофур,Undirected,Гэндальф,7
+Бофур,Undirected,Даин ,1
+Бофур,Undirected,Двалин,6
+Бофур,Undirected,Дори,7
+Бофур,Undirected,Кили,8
+Бофур,Undirected,Король Эльфов ,2
+Бофур,Undirected,Нори ,6
+Бофур,Undirected,Оин,1
+Бофур,Undirected,Оин ,6
+Бофур,Undirected,Ори,7
+Бофур,Undirected,Орки,3
+Бофур,Undirected,Орлы ,3
+Бофур,Undirected,Смауг,3
+Бофур,Undirected,Торин Дубощит,9
+Бофур,Undirected,Тролли,1
+Бофур,Undirected,Фили,8
+Бофур,Undirected,Элронд	,4
+Бургомистр Эсгарота,Undirected,Варги ,1
+Бургомистр Эсгарота,Undirected,Глоин ,2
+Бургомистр Эсгарота,Undirected,Гэндальф,3
+Бургомистр Эсгарота,Undirected,Даин ,2
+Бургомистр Эсгарота,Undirected,Двалин,1
+Бургомистр Эсгарота,Undirected,Двалин ,1
+Бургомистр Эсгарота,Undirected,Дори,2
+Бургомистр Эсгарота,Undirected,Кили,3
+Бургомистр Эсгарота,Undirected,Король Эльфов ,3
+Бургомистр Эсгарота,Undirected,Нори ,1
+Бургомистр Эсгарота,Undirected,Оин,1
+Бургомистр Эсгарота,Undirected,Оин ,1
+Бургомистр Эсгарота,Undirected,Ори,2
+Бургомистр Эсгарота,Undirected,Орки,1
+Бургомистр Эсгарота,Undirected,Орлы ,1
+Бургомистр Эсгарота,Undirected,Смауг,3
+Бургомистр Эсгарота,Undirected,Торин Дубощит,4
+Бургомистр Эсгарота,Undirected,Фили,3
+Варги ,Undirected,Глоин ,3
+Варги ,Undirected,Голлум,1
+Варги ,Undirected,Гэндальф,4
+Варги ,Undirected,Даин ,2
+Варги ,Undirected,Двалин,3
+Варги ,Undirected,Дори,3
+Варги ,Undirected,Кили,3
+Варги ,Undirected,Король Эльфов ,1
+Варги ,Undirected,Нори ,2
+Варги ,Undirected,Оин,1
+Варги ,Undirected,Оин ,2
+Варги ,Undirected,Ори,3
+Варги ,Undirected,Орки,4
+Варги ,Undirected,Орлы ,4
+Варги ,Undirected,Смауг,1
+Варги ,Undirected,Торин Дубощит,4
+Варги ,Undirected,Фили,3
+Варги ,Undirected,Элронд	,2
+Глоин ,Undirected,Голлум,1
+Глоин ,Undirected,Гэндальф,7
+Глоин ,Undirected,Даин ,1
+Глоин ,Undirected,Двалин,5
+Глоин ,Undirected,Дори,7
+Глоин ,Undirected,Кили,6
+Глоин ,Undirected,Король Эльфов ,1
+Глоин ,Undirected,Нори ,5
+Глоин ,Undirected,Оин,1
+Глоин ,Undirected,Оин ,6
+Глоин ,Undirected,Ори,6
+Глоин ,Undirected,Орки,4
+Глоин ,Undirected,Орлы ,3
+Глоин ,Undirected,Смауг,1
+Глоин ,Undirected,Торин Дубощит,7
+Глоин ,Undirected,Тролли,1
+Глоин ,Undirected,Фили,6
+Глоин ,Undirected,Элронд	,4
+Глоин,Undirected,Голлум,1
+Глоин,Undirected,Гэндальф,1
+Глоин,Undirected,Двалин,1
+Глоин,Undirected,Дори,2
+Глоин,Undirected,Кили,2
+Глоин,Undirected,Король Эльфов ,1
+Глоин,Undirected,Нори ,1
+Глоин,Undirected,Оин ,1
+Глоин,Undirected,Оин  ,1
+Глоин,Undirected,Ори,1
+Глоин,Undirected,Смауг,1
+Глоин,Undirected,Торин Дубощит,2
+Глоин,Undirected,Фили,2
+Голлум,Undirected,Гэндальф,2
+Голлум,Undirected,Двалин,2
+Голлум,Undirected,Дори,2
+Голлум,Undirected,Кили,2
+Голлум,Undirected,Король Эльфов ,1
+Голлум,Undirected,Нори ,2
+Голлум,Undirected,Оин ,2
+Голлум,Undirected,Ори,3
+Голлум,Undirected,Орки,2
+Голлум,Undirected,Орлы ,1
+Голлум,Undirected,Торин Дубощит,2
+Голлум,Undirected,Фили,2
+Голлум,Undirected,Элронд	,1
+Гэндальф,Undirected,Даин ,3
+Гэндальф,Undirected,Двалин,6
+Гэндальф,Undirected,Двалин ,1
+Гэндальф,Undirected,Дори,8
+Гэндальф,Undirected,Кили,9
+Гэндальф,Undirected,Король Эльфов ,4
+Гэндальф,Undirected,Нори ,6
+Гэндальф,Undirected,Оин,1
+Гэндальф,Undirected,Оин ,7
+Гэндальф,Undirected,Ори,7
+Гэндальф,Undirected,Орки,5
+Гэндальф,Undirected,Орлы ,4
+Гэндальф,Undirected,Смауг,3
+Гэндальф,Undirected,Торин Дубощит,12
+Гэндальф,Undirected,Тролли,1
+Гэндальф,Undirected,Фили,9
+Гэндальф,Undirected,Элронд	,5
+Даин ,Undirected,Двалин,1
+Даин ,Undirected,Дори,1
+Даин ,Undirected,Кили,4
+Даин ,Undirected,Король Эльфов ,3
+Даин ,Undirected,Оин,1
+Даин ,Undirected,Ори,1
+Даин ,Undirected,Орки,2
+Даин ,Undirected,Орлы ,2
+Даин ,Undirected,Смауг,2
+Даин ,Undirected,Торин Дубощит,4
+Даин ,Undirected,Фили,4
+Двалин,Undirected,Дори,6
+Двалин,Undirected,Кили,5
+Двалин,Undirected,Король Эльфов ,1
+Двалин,Undirected,Нори ,5
+Двалин,Undirected,Оин,1
+Двалин,Undirected,Оин ,5
+Двалин,Undirected,Ори,6
+Двалин,Undirected,Орки,3
+Двалин,Undirected,Орлы ,3
+Двалин,Undirected,Торин Дубощит,6
+Двалин,Undirected,Тролли,1
+Двалин,Undirected,Фили,5
+Двалин,Undirected,Элронд	,3
+Дори,Undirected,Кили,8
+Дори,Undirected,Король Эльфов ,2
+Дори,Undirected,Нори ,6
+Дори,Undirected,Оин,1
+Дори,Undirected,Оин ,7
+Дори,Undirected,Оин  ,1
+Дори,Undirected,Ори,7
+Дори,Undirected,Орки,4
+Дори,Undirected,Орлы ,3
+Дори,Undirected,Смауг,2
+Дори,Undirected,Торин Дубощит,9
+Дори,Undirected,Тролли,1
+Дори,Undirected,Фили,8
+Дори,Undirected,Элронд	,4
+Кили,Undirected,Король Эльфов ,5
+Кили,Undirected,Нори ,5
+Кили,Undirected,Оин,1
+Кили,Undirected,Оин ,6
+Кили,Undirected,Оин  ,1
+Кили,Undirected,Ори,6
+Кили,Undirected,Орки,4
+Кили,Undirected,Орлы ,3
+Кили,Undirected,Смауг,6
+Кили,Undirected,Торин Дубощит,13
+Кили,Undirected,Тролли,1
+Кили,Undirected,Фили,13
+Кили,Undirected,Элронд	,4
+Король Эльфов ,Undirected,Нори ,2
+Король Эльфов ,Undirected,Оин ,2
+Король Эльфов ,Undirected,Ори,2
+Король Эльфов ,Undirected,Орки,1
+Король Эльфов ,Undirected,Орлы ,1
+Король Эльфов ,Undirected,Смауг,4
+Король Эльфов ,Undirected,Торин Дубощит,6
+Король Эльфов ,Undirected,Фили,5
+Нори ,Undirected,Оин ,6
+Нори ,Undirected,Ори,6
+Нори ,Undirected,Орки,2
+Нори ,Undirected,Орлы ,2
+Нори ,Undirected,Смауг,1
+Нори ,Undirected,Торин Дубощит,6
+Нори ,Undirected,Тролли,1
+Нори ,Undirected,Фили,5
+Нори ,Undirected,Элронд	,3
+Оин  ,Undirected,Смауг,1
+Оин  ,Undirected,Торин Дубощит,1
+Оин  ,Undirected,Фили,1
+Оин ,Undirected,Ори,6
+Оин ,Undirected,Орки,3
+Оин ,Undirected,Орлы ,2
+Оин ,Undirected,Смауг,1
+Оин ,Undirected,Торин Дубощит,7
+Оин ,Undirected,Тролли,1
+Оин ,Undirected,Фили,6
+Оин ,Undirected,Элронд	,4
+Оин,Undirected,Ори,1
+Оин,Undirected,Орки,1
+Оин,Undirected,Орлы ,1
+Оин,Undirected,Торин Дубощит,1
+Оин,Undirected,Фили,1
+Ори,Undirected,Орки,4
+Ори,Undirected,Орлы ,3
+Ори,Undirected,Смауг,1
+Ори,Undirected,Торин Дубощит,7
+Ори,Undirected,Тролли,1
+Ори,Undirected,Фили,6
+Ори,Undirected,Элронд	,3
+Орки,Undirected,Орлы ,4
+Орки,Undirected,Смауг,1
+Орки,Undirected,Торин Дубощит,5
+Орки,Undirected,Фили,4
+Орки,Undirected,Элронд	,3
+Орлы ,Undirected,Смауг,1
+Орлы ,Undirected,Торин Дубощит,4
+Орлы ,Undirected,Фили,3
+Орлы ,Undirected,Элронд	,2
+Смауг,Undirected,Торин Дубощит,8
+Смауг,Undirected,Фили,6
+Смауг,Undirected,Элронд	,2
+Торин Дубощит,Undirected,Тролли,1
+Торин Дубощит,Undirected,Фили,13
+Торин Дубощит,Undirected,Элронд	,6
+Тролли,Undirected,Фили,1
+Тролли,Undirected,Элронд	,1
+Фили,Undirected,Элронд	,4
